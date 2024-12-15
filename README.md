@@ -1,5 +1,5 @@
 # qr-code-generator
-modules used:
-pip install tkinter
-pip install qrcode
+modules used:<br>
+pip install tkinter<br>
+pip install qrcode<br>
 pip install pillow
